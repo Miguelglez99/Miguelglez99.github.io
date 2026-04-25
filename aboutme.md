@@ -8,37 +8,33 @@ Hello everyone! I'm Miguel González González, an Industrial and Automatic Elec
 
 ### 🎓 Education
 {: .box-note}
-**Master’s in Health Data Science**  
+**Master’s degree in Health Data Science (in progress)**  
 Universitat Rovira i Virgili
 
-{: .box-note}
-**Master’s in Big Data & Analytics**  
-Universidad Internacional de Valencia
+**Master’s degree in Big Data & Analytics**  
+European Higher Institute of Barcelona
 
-{: .box-note}
 **BSc in Industrial Electronics and Automation Engineering**  
-Universidad de Oviedo
+Gijón Polytechnic School of Engineering
 
-- Industrial Electronics and Automation Engineering - Gijón Polytechnic School of Engineering
-- Master's degree in Big Data & Data Analytics - European Higher Institute of Barcelona
-- Master's degree in Health Data Science - Rovira i Virgili University (in progress)
 
-### Experience
+### 💼 Experience
+{: .box-success}
+**Technical Engineer - TSK Electronics & Electrical Engineering** 
+**(2025 - present)**
 
-- **Technical Engineer - TSK Electronics & Electrical Engineering**
-  **(2025 - present)**
+Working on industrial and data-driven engineering projects, focusing on automation, analytics and reproducible workflows.
   
-  Working on industrial and data-driven engineering projects, focusing on automation, analytics and reproducible workflows.
-  
--  **Engineering Intern - TSK Electronics & Electrical Engineering**
-  **(2024 - 2025)**
+**Engineering Intern - TSK Electronics & Electrical Engineering**
+**(2024 - 2025)**
    
-   Initial stage within the company, collaborating across departments and gaining hands-on experience in industrial systems, data processing and technical project execution.
+Initial stage within the company, collaborating across departments and gaining hands-on experience in industrial systems, data processing and technical project execution.
 
-- **Healthcare Engineering Intern - i4life I+D**
-  **(Jun 2023 - Sept 2023)**
+**Healthcare Engineering Intern - i4life I+D**
+**(Jun 2023 - Sept 2023)**
   
-  Participation in several R&D projects focused on healthcare innovation.
+Participation in several R&D projects focused on healthcare innovation.
+
 
 This experience introduced me to biomedical engineering challenges and reinforced my motivation to work at the intersection of data, healthcare and technology.
 
