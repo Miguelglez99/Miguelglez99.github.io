@@ -6,6 +6,9 @@ tags: [cloud, robotics, surgery, healthcare]
 comments: true
 ---
 
+{: .box-note}
+**Note:** This blog post explores a cloud-based application in the biomedical field, specifically the use of cloud robotics to enhance robotic surgery.
+
 Robotic surgery has become one of the most iconic examples of how technology can transform healthcare. Systems like the Da Vinci Surgical System have changed the way many procedures are performed, improving precision, ergonomics and visualization. However, a new layer of innovation is emerging on top of these platforms: cloud robotics.
 
 In this blog post, I explore key ideas from the article *“Exploring the Landscape of Cloud Robotics: A Comprehensive Review”* and reflect on how cloud robotics can impact robotic surgery and future applications in systems such as Da Vinci.
