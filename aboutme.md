@@ -11,7 +11,7 @@ Hello everyone! I'm Miguel González González, an Industrial and Automatic Elec
 **Master’s degree in Health Data Science (in progress)**  
 Universitat Rovira i Virgili
 
-**Master’s degree in Big Data & Analytics**  
+**Master’s degree in Big Data & Data Analytics**  
 European Higher Institute of Barcelona
 
 **BSc in Industrial Electronics and Automation Engineering**  
