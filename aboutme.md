@@ -1,17 +1,35 @@
 ---
 layout: page
 title: About me
-subtitle: A brief personal description
+subtitle: Bridging engineering, analytics and biomedical technology
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Hello everyone! I'm Miguel González González, an Industrial and Automatic Electronic engineer from Gijón. Passionate about the world of data and its enormous potential to transform key sectors, especially Data Analytics and its application in the healthcare field. I firmly believe in the power of information to improve processes, optimise resources and, above all, positively impact people's lives.
 
 ### Education
-
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Industrial Electronics and Automation Engineering - Gijón Polytechnic School of Engineering
+- Master's degree in Big Data & Data Analytics - European Higher Institute of Barcelona
+- Master's degree in Health Data Science - Rovira i Virgili University (in progress)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+
+- **Technical Engineer - TSK Electronics & Electrical Engineering**
+  **2025 - present**
+  Working on industrial and data-driven engineering projects, focusing on automation, analytics and reproducible workflows.
+  
+-  **Engineering Intern - TSK Electronics & Electrical Engineering**
+  **2024 - 2025**
+   Initial stage within the company, collaborating across departments and gaining hands-on experience in industrial systems, data processing and technical project execution.
+
+- **Healthcare Engineering Intern - i4life I+D**
+  **Jun 2023 - Sept 2023**
+  Participation in several R&D projects focused on healthcare innovation.
+
+This experience introduced me to biomedical engineering challenges and reinforced my motivation to work at the intersection of data, healthcare and technology.
+
+
+
+
+
+
+
