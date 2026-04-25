@@ -81,7 +81,13 @@ Cloud robotics offers a powerful framework to extend the capabilities of robotic
 
 ## **Reference**
 
-- *Exploring the Landscape of Cloud Robotics: A Comprehensive Review.*  
-  Consulted through reputable scientific sources, including IEEE Xplore and Google Scholar.
+**Reference**
+
+S. Ahmad, S. Hussain, K. Anwar, H. Verma, D. Sharma and A. Aggarwal,  
+"Exploring the Landscape of Cloud Robotics: A Comprehensive Review,"  
+*2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)*,  
+Kamand, India, 2024, pp. 1–7.  
+doi: 10.1109/ICCCNT61001.2024.10724868
+
 
 
