@@ -6,7 +6,19 @@ subtitle: Bridging engineering, analytics and biomedical technology
 
 Hello everyone! I'm Miguel González González, an Industrial and Automatic Electronic engineer from Gijón. Passionate about the world of data and its enormous potential to transform key sectors, especially Data Analytics and its application in the healthcare field. I firmly believe in the power of information to improve processes, optimise resources and, above all, positively impact people's lives.
 
-### Education
+### 🎓 Education
+{: .box-note}
+**Master’s in Health Data Science**  
+Universitat Rovira i Virgili
+
+{: .box-note}
+**Master’s in Big Data & Analytics**  
+Universidad Internacional de Valencia
+
+{: .box-note}
+**BSc in Industrial Electronics and Automation Engineering**  
+Universidad de Oviedo
+
 - Industrial Electronics and Automation Engineering - Gijón Polytechnic School of Engineering
 - Master's degree in Big Data & Data Analytics - European Higher Institute of Barcelona
 - Master's degree in Health Data Science - Rovira i Virgili University (in progress)
