@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloud Robotics in Robotic Surgery: A Review"
+title: " When Surgery Meets the Cloud: A New Era of Robotics"
 subtitle: "Exploring insights from a comprehensive cloud robotics survey"
 tags: [cloud, robotics, surgery, healthcare]
 comments: true
